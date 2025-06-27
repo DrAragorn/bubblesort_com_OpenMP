@@ -1,6 +1,6 @@
 # Bubblesort usando OpenMP
 
-Projeto para ordenar uma lista de inteiros, usando a técnica bubblesort.
+Projeto para ordenar uma lista de inteiros, usando a técnica bubblesort por meio do odd-even transposition.
 
 Trabalho para a disciplina Laboratório de Programação Paralela (TCC00344 - 2025.1), ministrada pela professora Dra. Lucia Drummond.
 
