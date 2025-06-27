@@ -2,7 +2,7 @@
 
 Projeto para calcular quais os números primos de 3 até n.
 
-Trabalho para a disciplina Laboratório de Programação Paralela (TCC00344), ministrada para professora Dra. Lucia Drummond.
+Trabalho para a disciplina Laboratório de Programação Paralela (TCC00344 - 2025.1), ministrada pela professora Dra. Lucia Drummond.
 
 Linguagem de programação usada: C.
 
