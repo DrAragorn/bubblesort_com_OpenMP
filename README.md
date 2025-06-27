@@ -1,6 +1,6 @@
 # Bubblesort usando OpenMP
 
-Projeto para calcular quais os números primos de 3 até n.
+Projeto para ordenar uma lista de inteiros, usando a técnica bubblesort.
 
 Trabalho para a disciplina Laboratório de Programação Paralela (TCC00344 - 2025.1), ministrada pela professora Dra. Lucia Drummond.
 
