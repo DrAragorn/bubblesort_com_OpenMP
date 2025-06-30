@@ -1,0 +1,24 @@
+==== MÉTRICAS BUBBLE SORT ODD-EVEN TRANSPOSITION ====
+
+==== N = 50000 ====
+
+1 thread: 4.065623 s
+2 threads: 2.251328 s (Speedup: 1.81, Eficiência: 0.90)
+4 threads: 1.209261 s (Speedup: 3.36, Eficiência: 0.84)
+----------------------------------------
+
+==== N = 100000 ====
+
+1 thread: 18.094327 s
+2 threads: 9.311619 s (Speedup: 1.94, Eficiência: 0.97)
+4 threads: 4.640277 s (Speedup: 3.90, Eficiência: 0.97)
+----------------------------------------
+
+==== N = 500000 ====
+
+1 thread: 473.769871 s
+2 threads: 240.531134 s (Speedup: 1.97, Eficiência: 0.98)
+4 threads: 132.671002 s (Speedup: 3.57, Eficiência: 0.89)
+----------------------------------------
+
+====  FIM DA CAPTAÇÃO DAS MÉTRICAS ====
