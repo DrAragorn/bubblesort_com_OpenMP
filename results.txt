@@ -2,23 +2,23 @@
 
 ==== N = 50000 ====
 
-1 thread: 4.065623 s
-2 threads: 2.251328 s (Speedup: 1.81, Eficiência: 0.90)
-4 threads: 1.209261 s (Speedup: 3.36, Eficiência: 0.84)
+1 thread: 4.140185 s
+2 threads: 1.946518 s (Speedup: 2.13, Eficiência: 1.06)
+4 threads: 1.068390 s (Speedup: 3.88, Eficiência: 0.97)
 ----------------------------------------
 
 ==== N = 100000 ====
 
-1 thread: 18.094327 s
-2 threads: 9.311619 s (Speedup: 1.94, Eficiência: 0.97)
-4 threads: 4.640277 s (Speedup: 3.90, Eficiência: 0.97)
+1 thread: 20.878820 s
+2 threads: 8.776973 s (Speedup: 2.38, Eficiência: 1.19)
+4 threads: 4.645060 s (Speedup: 4.49, Eficiência: 1.12)
 ----------------------------------------
 
 ==== N = 500000 ====
 
-1 thread: 473.769871 s
-2 threads: 240.531134 s (Speedup: 1.97, Eficiência: 0.98)
-4 threads: 132.671002 s (Speedup: 3.57, Eficiência: 0.89)
+1 thread: 513.028596 s
+2 threads: 282.574238 s (Speedup: 1.82, Eficiência: 0.91)
+4 threads: 160.555602 s (Speedup: 3.20, Eficiência: 0.80)
 ----------------------------------------
 
 ====  FIM DA CAPTAÇÃO DAS MÉTRICAS ====
